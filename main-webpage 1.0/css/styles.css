@@ -1,0 +1,45 @@
+body {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: "Lato Light";
+}
+
+table, th, td,tr {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.arrow {
+    cursor: pointer;
+}
+
+.up-arrow {
+    pointer-events: none;
+    width: 0;
+    height: 0;
+    border: solid 5px transparent;
+    background: transparent;
+    border-bottom: solid 7px black;
+    border-top-width: 0;
+}
+
+.down-arrow {
+    pointer-events: none;
+    width: 0;
+    height: 0;
+    border: solid 5px transparent;
+    background: transparent;
+    border-top: solid 7px black;
+    border-bottom-width: 0;
+}
+
+.none {
+    width: 0;
+    height: 0;
+    border: solid 5px transparent;
+    background: transparent;
+    border-bottom-width: 0;
+    display: hidden;
+}

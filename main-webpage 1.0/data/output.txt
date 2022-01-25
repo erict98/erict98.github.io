@@ -1,0 +1,222 @@
+<thead>
+<tr>
+<th>First Name</th>
+<th>Last Name</th>
+<th>Cohort</th>
+<th>Technical Track</th>
+<th>Location</th>
+<th>LinkedIn Profile</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alejandro</td>
+<td>Mendoza</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Alexis</td>
+<td>Maddox</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Andrew (Drew)</td>
+<td>Thomas</td>
+<td>Delta</td>
+<td>Cloud Data Engineer</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Anita</td>
+<td>Danthi</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Brandon</td>
+<td>Yu</td>
+<td>Delta</td>
+<td>Cloud Data Engineer</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Bransen</td>
+<td>Smith</td>
+<td>Delta</td>
+<td>Business Intelligence</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Christian</td>
+<td>Williams</td>
+<td>Delta</td>
+<td>Cloud Data Engineer</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Chyna</td>
+<td>PoorThunder</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Derick</td>
+<td>Dankwah</td>
+<td>Delta</td>
+<td>ServiceNow</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Dhalia</td>
+<td>Bejimi</td>
+<td>Delta</td>
+<td>Epic Ambulatory</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Dragana</td>
+<td>Damjanovic</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Eniola</td>
+<td>Adewunmi</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Eric</td>
+<td>Tran</td>
+<td>Delta</td>
+<td>Cloud Data Engineer</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Gary</td>
+<td>Kulik</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Izuchukwu (Izzy)</td>
+<td>Matthew</td>
+<td>Delta</td>
+<td>ServiceNow</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Jack</td>
+<td>Menard</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Jahmeel</td>
+<td>Grayman</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Julian</td>
+<td>Massiah</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Justin</td>
+<td>Sento</td>
+<td>Delta</td>
+<td>ServiceNow</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Keenan</td>
+<td>White</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Kevin</td>
+<td>Hoang</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Kylen</td>
+<td>Small</td>
+<td>Delta</td>
+<td>Business Intelligence</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Lee</td>
+<td>Brooks</td>
+<td>Delta</td>
+<td>Cloud Data Engineer</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Miguel</td>
+<td>Caibigan</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Patricia</td>
+<td>Perez</td>
+<td>Delta</td>
+<td>Epic HB Claims</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Tanny</td>
+<td>Carmona</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Toi</td>
+<td>Gardner</td>
+<td>Delta</td>
+<td>ServiceNow</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Tracey</td>
+<td>Enejor</td>
+<td>Delta</td>
+<td>Junior PM / Ancillary Analyst</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Varun</td>
+<td>Reddy</td>
+<td>Delta</td>
+<td>Business Intelligence</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Walter</td>
+<td>Tolero</td>
+<td>Delta</td>
+<td>Business Intelligence</td>
+<td></td>
+<td></td>
+</tr></tbody>
